@@ -1,0 +1,13 @@
+https://www.vaadata.com/blog/nmap-the-tool-for-mapping-and-assessing-network-security/
+https://www.vaadata.com/blog/jwt-json-web-token-vulnerabilities-common-attacks-and-security-best-practices/
+https://www.vaadata.com/blog/file-upload-vulnerabilities-and-security-best-practices/
+https://www.vaadata.com/blog/web-cache-poisoning-attacks-and-security-best-practices/
+https://www.vaadata.com/blog/active-directory-security-best-practices-vulnerabilities-and-attacks/
+https://www.vaadata.com/blog/what-is-nosql-injection-exploitations-and-security-best-practices/
+https://www.vaadata.com/blog/what-is-a-slow-http-attack-types-and-security-best-practices/
+https://www.vaadata.com/blog/what-is-http-request-smuggling-exploitations-and-security-best-practices/
+https://www.vaadata.com/blog/how-websockets-work-vulnerabilities-and-security-best-practices/
+https://www.vaadata.com/blog/introduction-to-zap-an-open-source-interception-proxy/
+https://www.vaadata.com/blog/what-is-clickjacking-exploitations-and-security-best-practices/
+https://www.vaadata.com/blog/phishing-campaign-objectives-methodology-spear-and-mass-phishing-examples/
+https://www.vaadata.com/blog/content-security-policy-bypass-techniques-and-security-best-practices/
